@@ -2,6 +2,8 @@
 
 This repo accompanies the Hortonworks Community article: [Customizing Atlas (Part4): Wrapping up with genomic analytic pipeline and one-button demokit](https://community.hortonworks.com/articles/236889/customizing-atlas-part4-summarizing-with-genomic-a.html)
 
+![](HCC4-lineage-annotated.png)
+
 ## Goal of Repo
 * Provide easy one command approach to load Apache Atlas on Hortonworks Data Platform (Hadoop) with customized types and entities and complex lineages.
 * See article for details.  
