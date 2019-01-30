@@ -1,6 +1,7 @@
 # one-button-genomics-pipeline-atlas
 
-This repo accompanies the Hortonworks Community article: [Customizing Atlas (Part4): Wrapping up with genomic analytic pipeline and one-button demokit](https://community.hortonworks.com/articles/236889/customizing-atlas-part4-summarizing-with-genomic-a.html)
+This repo accompanies the Hortonworks Community article: 
+[Customizing Atlas (Part4): Wrapping up with genomic analytic pipeline and one-button demokit](https://community.hortonworks.com/articles/236889/customizing-atlas-part4-summarizing-with-genomic-a.html)
 
 ![](HCC4-lineage-annotated.png)
 
