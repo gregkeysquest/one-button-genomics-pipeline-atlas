@@ -11,8 +11,8 @@ This repo accompanies the Hortonworks Community article: [Customizing Atlas (Par
 1. stand up a HDP 2.6+ or 3x cluster or sandbox and make sure Atlas is running
 1. pull this repo to your local machine
 1. export the following variables
-  export ATLAS_UU_PWD=atlasuser:atlaspassword
-  export ATLAS_HOST=atlashostname
+  **export ATLAS_UU_PWD=atlasuser:atlaspassword**
+  **export ATLAS_HOST=atlashostname**
 1. cd to local repo and run ./~one-step.sh
 1. log into Atlas UI and see results (see article reference for details)
   
