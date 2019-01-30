@@ -1,10 +1,11 @@
 # one-button-genomics-pipeline-atlas
-Create multiple instances of customized Atlas entities in genomics pipeline lineage
 
-*This repo accompanies the Hortonworks Community article: [Customizing Atlas (Part4): Wrapping up with genomic analytic pipeline and one-button demokit] (https://community.hortonworks.com/articles/236889/customizing-atlas-part4-summarizing-with-genomic-a.html)*
+This repo accompanies the Hortonworks Community article: [Customizing Atlas (Part4): Wrapping up with genomic analytic pipeline and one-button demokit] (https://community.hortonworks.com/articles/236889/customizing-atlas-part4-summarizing-with-genomic-a.html)*
 
 ## Goal of Repo
-Provide easy one command approach to load Apache Atlas on Hortonworks Data Platform (Hadoop) with customized types and entities.  See article for details.  Even if you are not interested in customizing Atlas, this is a great way to create complex lineages in Atlas and explore the powerful Atlas search and lineage capabilities.
+* Provide easy one command approach to load Apache Atlas on Hortonworks Data Platform (Hadoop) with customized types and entities and complex lineages.
+* See article for details.  
+* Even if you are not interested in customizing Atlas, this is a great way to create complex lineages in Atlas and explore the powerful Atlas search and lineage capabilities.
 
 ## One-step Instructions
 1. stand up a HDP 2.6+ or 3x cluster or sandbox and make sure Atlas is running
