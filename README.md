@@ -20,7 +20,7 @@ This repo accompanies the Hortonworks Community article:
    
    export ATLAS_HOST=atlashostname  
 1. cd to local repo and run ./~one-step.sh
-1. log into Atlas UI and see results (see article reference for details)
+1. log into Atlas UI and see results: multiple complex lineages each comprised of custom entities (see article reference for details and use Atlas UI to explore)
   
 ## Three-step Instructions (to better understand what is going on(
 same as above, but instead of step 4. run the following separate commands and see results in Atlas UI after each one)
